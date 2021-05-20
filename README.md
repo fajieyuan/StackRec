@@ -6,8 +6,20 @@ You can download datasets that have been pre-processed:
 - ColdRec:
 https://pan.baidu.com/s/1AkTImhvnD8WyXCTOuynZ8g code(提取码): 9cs2
 https://pan.baidu.com/s/1byW5uCZbdEjGzoXJAlPalQ code(提取码): 856z
-- Kuaibao: Permission is required from Tencent. We will open source after paper acceptance.
+- Other:
+https://drive.google.com/file/d/1jir3KMMaBDRahiApkp91Uq4_y5VtEuYL/view?usp=sharing
 
+We construct a large-scale session-based recommendation dataset (denoted as Video-6M) by collecting the interactiton behaviors of nearly 6 million users in a week  from a commercial recommender system. The dataset can be used to evaluate very deep recommendation models (up to 100 layers), such as NextItNet (as shown in our paper StackRec（SIGIR2021)). 
+If you use this dataset in your paper, you should cite our NextItNet and StackRec for publish permission. 
+
+```
+@article{wang2020stackrec,
+  title={StackRec: Efficient Training of Very Deep Sequential Recommender Models by Iterative Stacking},
+  author={Wang, Jiachun and Yuan, Fajie and Chen, Jian and Wu, Qingyao and Li, Chengmin and Yang, Min and Sun, Yang and Zhang, Guoxiao},
+  journal={Proceedings of the 44th International ACM SIGIR conference on Research and Development in Information Retrieval},
+  year={2021}
+}
+```
 
 ## File Description
 ```
