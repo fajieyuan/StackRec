@@ -13,6 +13,13 @@ We construct a large-scale session-based recommendation dataset (denoted as Vide
 If you use this dataset in your paper, you should cite our NextItNet and StackRec for publish permission. 
 
 ```
+@article{yuan2019simple,
+	title={A simple convolutional generative network for next item recommendation},
+	author={Yuan, Fajie and Karatzoglou, Alexandros and Arapakis, Ioannis and Jose, Joemon M and He, Xiangnan},
+	journal={Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining},
+	year={2019}
+}
+
 @article{wang2020stackrec,
   title={StackRec: Efficient Training of Very Deep Sequential Recommender Models by Iterative Stacking},
   author={Wang, Jiachun and Yuan, Fajie and Chen, Jian and Wu, Qingyao and Li, Chengmin and Yang, Min and Sun, Yang and Zhang, Guoxiao},
